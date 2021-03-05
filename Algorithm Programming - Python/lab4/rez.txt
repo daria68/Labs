@@ -1,0 +1,2 @@
+Cuvintul dat nu exista in fisierul eminescu.txt
+bacovia.txt: 2

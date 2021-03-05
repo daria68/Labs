@@ -1,0 +1,24 @@
+def alipire(*args):
+    if len(args)==0:
+        return None
+    else:
+        nrnou = 0
+        for x in args:
+            ma=0
+            while x>0:
+                if x%10>ma:
+                    ma=x%10
+                x/=10
+            nrnou=nrnou*10+int(ma)
+        return nrnou
+args=[]
+x=input()
+while x:
+    args.append(int(x))
+    x=input()
+print('a)',alipire(*args))
+L=[4,6,7,1,2,4,4]
+while 4 in L:
+
+    L.remove(4)
+
