@@ -1,0 +1,6 @@
+Peny 5 6 8 19 20
+Kaufland 8 6 5 12 3
+Mega 7 5 4 2 8
+Lidl 6 5 8 4 2
+Carefour 12 3 19 8 5 76
+Profi  8 17 5 6
